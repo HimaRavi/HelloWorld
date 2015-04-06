@@ -10,7 +10,7 @@ public class HelloWorld {
 	private static void displayGreetings() {
 		System.out.println("Welcome to HelloWorld Project");
 		System.out.println("Welcome to GIT practice"); 
-		
+		System.out.println("New line to check commit after check out from Repository");
 	}
 
 }
